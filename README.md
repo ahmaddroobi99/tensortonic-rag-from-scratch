@@ -42,3 +42,8 @@ Run whatever entrypoint lives under `src/` after install. If a script is missing
 
 - [TensorTonic-Solutions](https://github.com/ahmaddroobi99/TensorTonic-Solutions)
 - [meridian](https://github.com/ahmaddroobi99/meridian)
+
+---
+
+Account grouping: research first, undergraduate last — see the [profile README](https://github.com/ahmaddroobi99/ahmaddroobi99). GitHub cannot custom-sort the Repositories tab.
+
